@@ -13,7 +13,6 @@ import java.util.*;
  * weight cycle if present.  
  * 
  * @author	Chaitali Kamble		Section 03
- * @author	Vaibhavi Awghate	Section 03
  */
 public class NegativeCycle {
 
